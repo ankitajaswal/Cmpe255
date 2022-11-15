@@ -1,0 +1,5 @@
+Revisions made:
+1.) Part 1 LP2 : wrongly encoded - fixed
+2.) Part 1 LP3: Not properly explained - fixed
+3.) Part 1 HP1: asked to modify LP2 - fixed
+4.) Part 2 HP3: more specific outcome expected - fixed
